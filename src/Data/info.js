@@ -1,4 +1,4 @@
-const quotes = [
+export const quotes = [
     {
         name: "Maria Rodriguez",
         title: "Marketing Manager",
